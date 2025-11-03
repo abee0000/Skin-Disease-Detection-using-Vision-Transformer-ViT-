@@ -91,11 +91,14 @@ Through extensive experimentation, we developed, trained, and deployed a Vision 
 
 
 ### Accuracy predicted
-![op0](https://github.com/user-attachments/assets/3daac9f8-f696-40d7-81f2-8bfefe9f3448)
+![op0](https://github.com/user-attachments/assets/781b68cc-37d6-4aa7-b112-f7127c4539d2)
+
 
 ###Real Time Output Result
-![op1](https://github.com/user-attachments/assets/ecb45780-d5eb-4afe-9b40-6a0c979d5b26)
-![op2](https://github.com/user-attachments/assets/030fcf10-7062-4aa7-9cf3-fdfe5b30f488)
+![op1](https://github.com/user-attachments/assets/fa601f5e-1363-410c-a578-e3d608563878)
+![op2](https://github.com/user-attachments/assets/d40b572e-2d41-4f73-aa64-746dc1b69e2f)
+
+
 
 
 
